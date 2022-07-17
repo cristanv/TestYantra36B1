@@ -12,5 +12,10 @@ public class campaignTest {
 	public void createOrganiza() {
 		System.out.println("createOrganizationAndDeleteTest bbbbb");
 	}
+	
+	@Test
+	public void creatTest() {
+		System.out.println("aaaanizationAndDeleteTest bbbbb");
+	}
 
 }
